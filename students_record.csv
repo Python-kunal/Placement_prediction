@@ -1,0 +1,609 @@
+student_id,name,registration_date,gender,branch,city,cgpa,attendance_percent,technical_skills,projects_completed,coding_problems_solved,communication_skill,internship,has_backlog,tech_events_attended,salary_expectation,placed
+STU1401,Student_402,18-09-2025,Female,Information Technology,Delhi,6.99,87.2,6,0,14,3,No,Yes,4,550440,No
+STU1283,Student_284,26-11-2025,Female,E.C.E,Gorakhpur,7.75,72.8,3,5,108,3,Yes,Yes,4,1053340,Yes
+STU1414,Student_415,04-06-2025,Female,Mech ,Gorakhpur,7.05,66.2,7,4,176,,No,No,0,643550,Yes
+STU1482,Student_483,14-09-2025,Male,Electronics,Prayagraj,7.24,73,4,0,103,1,No,Yes,3,580336,Yes
+STU1419,Student_420,21-05-2025,Male,Information Technology,Gorakhpur,7.11,84.4,4,3,77,5,No,No,3,1093599,Yes
+STU1168,Student_169,19-11-2025,Female,it,Patna,7.47,67.6,5,2,15,2,No,No,3,744072,Yes
+STU1245,Student_246,17-04-2025,Male,C.S.E,Prayagraj,6.05,70.4,6,1,169,3,No,Yes,3,1387945,No
+STU1552,Student_553,08-01-2025,Female,I.T ,Varanasi,7.24,73.9,5,5,278,3,No,No,,,Yes
+STU1232,Student_233,21-01-2025,Female,Mech ,Patna,7.49,66.5,5,2,60,2,No,No,2,901042,Yes
+STU1452,Student_453,15-07-2025,Male,civil,Gorakhpur,9.11,74.4,8,4,110,4,Yes,Yes,2,1130527,Yes
+STU1588,Student_589,15-03-2025,Male,Electrical,Varanasi,6.99,69,4,5,343,2,No,Yes,3,759415,No
+STU1324,Student_325,17-08-2025,Male,cse,Gorakhpur,7.85,79,6,4,165,2,Yes,Yes,0,654100,Yes
+STU1140,Student_141,16-08-2025,Female,it,Delhi,7.27,84.7,5,3,60,3,No,No,2,657954,Yes
+STU1292,Student_293,13-09-2025,Female, Computer Science,Prayagraj,7.99,80.2,4,2,41,4,Yes,No,0,675089,Yes
+STU1115,Student_116,27-04-2025,Female,cse,Kanpur,8.83,68.7,6,0,89,2,Yes,Yes,0,414316,Yes
+STU1249,Student_250,27-01-2025,Male,Electrical,Prayagraj,6.46,57.5,3,0,87,3,No,Yes,4,,No
+STU1202,Student_203,09-12-2025,Female,cse,Prayagraj,7.74,77.1,5,2,120,4,No,Yes,2,487945,Yes
+STU1101,Student_102,21-10-2025,Female,Information Technology,Gorakhpur,8.52,84.7,4,0,162,3,Yes,Yes,0,99000000,No
+STU1517,Student_518,04-01-2025,Male, Computer Science,Gorakhpur,4.48,62.4,4,4,75,1,No,No,5,655864,No
+STU1192,Student_193,18-03-2025,Male,CSE,Lucknow,6.47,78.9,3,0,211,2,No,No,0,906366,Yes
+STU1511,Student_512,22-04-2025,Female,cse,Lucknow,6.6,80.8,2,2,58,2,No,Yes,1,922452,Yes
+STU1465,Student_466,08-12-2025,Female,I.T ,Lucknow,9.08,75.5,9,4,96,2,Yes,No,1,542668,Yes
+STU1239,Student_240,03-08-2025,Male, Computer Science,Varanasi,6.32,99.6,3,2,20,3,No,No,,428659,Yes
+STU1404,Student_405,05-04-2025,Female,civil,Kanpur,7.09,75.2,6,1,211,4,No,No,2,749706,Yes
+STU1243,Student_244,01-12-2025,Male,MECH,Prayagraj,5.57,78.6,8,2,370,4,Yes,Yes,3,704380,Yes
+STU1428,Student_429,12-03-2025,Female,I.T ,Kanpur,8.39,75.8,2,3,325,,Yes,No,0,405492,Yes
+STU1278,Student_279,05-12-2025,Female,Mech ,Gorakhpur,6.02,52.8,3,3,52,2,No,Yes,7,591317,No
+STU1188,Student_189,02-08-2025,Male,C.S.E,Kanpur,8.28,76.7,7,1,54,3,No,No,2,549637,No
+STU1132,Student_133,23-02-2025,Female,EEE,Varanasi,7.1,70,3,7,3,3,No,No,4,571741,Yes
+STU1294,Student_295,09-08-2025,Female,eee,Gorakhpur,6.25,94.3,8,3,305,4,No,Yes,0,818260,No
+STU1514,Student_515,17-09-2025,Female,Electrical,Kanpur,7.92,74.4,3,2,85,3,Yes,Yes,1,328538,Yes
+STU1141,Student_142,26-10-2025,Male,cse,Delhi,9.77,73.8,4,3,399,3,No,No,5,571510,No
+STU1379,Student_380,11-03-2025,Female,I.T ,Kanpur,6.78,96.4,2,1,76,4,No,No,6,494484,No
+STU1549,Student_550,06-11-2025,Male,it,Gorakhpur,8.12,67.2,6,0,71,4,Yes,Yes,0,398206,Yes
+STU1271,Student_272,26-08-2025,Female, Computer Science,Gorakhpur,6.96,63.4,4,2,109,2,No,Yes,1,932303,No
+STU1343,Student_344,05-06-2025,Male,Civil ,Lucknow,7.2,78.6,1,6,35,4,No,Yes,3,412763,No
+STU1510,Student_511,09-04-2025,Female,Electrical,Kanpur,7.46,68.1,4,4,560,,No,Yes,2,100000,No
+STU1155,Student_156,15-08-2025,Female,civil,Patna,7.01,,3,6,127,3,Yes,Yes,2,697197,Yes
+STU1594,Student_595,12-01-2025,Male,E.C.E,Lucknow,7.99,88.7,1,4,9,,No,No,6,141991,Yes
+STU1446,Student_447,26-05-2025,Male,C.S.E,Prayagraj,7.08,63.8,2,2,83,1,No,No,2,480661,Yes
+STU1499,Student_500,18-10-2025,Female,eee,Gorakhpur,7.41,92.7,5,1,235,3,No,Yes,1,888308,No
+STU1546,Student_547,05-08-2025,Male,cse,Varanasi,6.84,,4,3,388,2,No,No,2,115923,Yes
+STU1099,Student_100,20-07-2025,Male,Electrical,Prayagraj,6.81,86.5,2,3,361,1,No,Yes,3,536479,Yes
+STU1209,Student_210,08-02-2025,Female,eee,Delhi,6.33,82.5,4,3,24,3,Yes,Yes,3,327300,Yes
+STU1142,Student_143,16-02-2025,Male,Electrical,Delhi,6.44,79.5,2,4,17,2,No,Yes,2,780287,Yes
+STU1386,Student_387,08-02-2025,Male,Information Technology,Varanasi,7.14,69.3,9,4,56,4,No,Yes,0,717609,Yes
+STU1256,Student_257,24-03-2025,Male,cse,Prayagraj,9.24,100,5,0,101,3,Yes,No,1,193857,Yes
+STU1583,Student_584,07-12-2025,Male,CSE,Delhi,7.55,89.5,2,4,59,3,Yes,Yes,5,432999,Yes
+STU1213,Student_214,01-09-2025,Female,EEE,Kanpur,6.57,83.1,7,2,125,2,No,No,4,435496,No
+STU1070,Student_71,21-09-2025,Female,CSE,Varanasi,7.69,91.6,4,5,370,2,Yes,No,3,1033537,Yes
+STU1134,Student_135,05-06-2025,Female,Information Technology,Kanpur,7.82,93.7,0,3,321,2,Yes,No,2,821050,Yes
+STU1284,Student_285,20-06-2025,Female,EEE,Prayagraj,6.21,68.4,7,1,16,3,No,No,0,275187,Yes
+STU1060,Student_61,24-01-2025,Male, Computer Science,Kanpur,7.64,91.9,6,1,93,4,Yes,No,0,504628,No
+STU1364,Student_365,25-04-2025,Male,E.C.E,Delhi,8.6,76.1,6,4,69,1,Yes,Yes,5,711530,Yes
+STU1053,Student_54,21-05-2025,Female,Electronics,Kanpur,8.62,74.2,7,2,171,3,No,No,3,448812,Yes
+STU1327,Student_328,04-06-2025,Male,IT,,6.14,84,3,2,390,3,No,Yes,,,No
+STU1346,Student_347,21-08-2025,Male,Information Technology,Lucknow,8.75,70.8,7,3,147,2,Yes,No,0,,Yes
+STU1556,Student_557,05-01-2025,Female,EEE,Kanpur,6.94,,4,3,99,1,Yes,No,5,982643,Yes
+STU1405,Student_406,13-09-2025,Female,C.S.E,Delhi,6.14,81.5,2,0,25,3,No,No,0,1215543,Yes
+STU1220,Student_221,01-08-2025,Male, Computer Science,Gorakhpur,10,65.9,6,3,43,2,Yes,Yes,2,926236,No
+STU1200,Student_201,24-05-2025,Male,E.C.E,,8.37,73.8,4,4,28,2,Yes,Yes,1,917156,No
+STU1336,Student_337,01-08-2025,Male,Information Technology,Gorakhpur,7.61,88.8,0,0,97,1,Yes,Yes,2,928546,Yes
+STU1013,Student_14,12-02-2025,Male,Cse ,Gorakhpur,8.75,77.4,5,4,12,2,No,Yes,4,,Yes
+STU1508,Student_509,10-09-2025,Male,Electrical,Gorakhpur,9.23,92.2,4,2,199,2,Yes,No,,849639,No
+STU1003,Student_4,18-04-2025,Male,Electrical,Delhi,7.45,,6,3,20,1,No,Yes,1,1048482,No
+STU1564,Student_565,27-12-2025,Male,I.T ,,8.04,100,8,4,33,4,Yes,No,3,516521,Yes
+STU1447,Student_448,13-05-2025,Female,EEE,,6.76,65,4,0,78,4,Yes,No,3,230415,Yes
+STU1052,Student_53,17-08-2025,Male,Electronics,Delhi,6.01,84.1,4,1,172,3,No,Yes,4,907751,Yes
+STU1293,Student_294,18-06-2025,Male,C.S.E,Kanpur,6.69,93.2,3,6,413,,No,No,0,1028501,Yes
+STU1244,Student_245,05-03-2025,Male,C.S.E,Delhi,7.22,76,6,2,27,1,No,Yes,2,746365,No
+STU1050,Student_51,20-11-2025,Male,Information Technology,Prayagraj,7.9,86.9,6,5,60,3,Yes,No,,433142,Yes
+STU1553,Student_554,17-01-2025,Female,CSE,Lucknow,7.65,75.8,6,2,131,3,No,Yes,3,542410,No
+STU1407,Student_408,18-12-2025,Male,ece,Patna,7.15,98.9,4,1,213,3,No,Yes,1,517915,Yes
+STU1423,Student_424,02-01-2025,Male,CIVIL,Patna,7.07,95.3,3,5,53,3,No,No,0,100000,No
+STU1109,Student_110,17-10-2025,Male,Mechanical,Gorakhpur,8.6,59.2,6,2,45,3,Yes,Yes,6,957416,Yes
+STU1242,Student_243,20-07-2025,Male,Mech ,Delhi,7.89,76.5,6,5,35,2,No,Yes,2,196181,Yes
+STU1146,Student_147,21-06-2025,Female,I.T ,Delhi,8.07,,7,5,22,3,No,Yes,0,627803,Yes
+STU1030,Student_31,12-04-2025,Male,Cse ,Lucknow,7.38,77.7,7,1,122,3,Yes,No,0,264784,Yes
+STU1572,Student_573,17-04-2025,Male,ECE,Delhi,7.43,78.4,1,1,219,1,No,No,3,100000,Yes
+STU1172,Student_173,07-07-2025,Male,civil,Delhi,7.72,92.9,6,0,125,3,Yes,Yes,5,573649,Yes
+STU1589,Student_590,25-10-2025,Male,cse,Varanasi,5.56,250,6,3,112,3,No,No,3,100000,Yes
+STU1022,Student_23,21-09-2025,Female,E.C.E,Delhi,7.9,63.4,3,0,88,2,Yes,Yes,3,100000,Yes
+STU1359,Student_360,24-06-2025,Female,I.T ,Kanpur,8.46,74.8,1,2,56,4,Yes,No,1,351433,Yes
+STU1187,Student_188,18-01-2025,Female,Cse ,Gorakhpur,5.59,,6,4,132,3,Yes,Yes,2,1152645,No
+STU1418,Student_419,01-11-2025,Male,EEE,Lucknow,7.99,89.1,7,1,32,1,Yes,Yes,,503393,Yes
+STU1051,Student_52,16-04-2025,Female,MECH,Gorakhpur,8.69,82.8,5,3,129,3,Yes,Yes,6,868263,Yes
+STU1179,Student_180,23-11-2025,Female,EEE,Lucknow,7.74,88.3,5,3,100,1,No,No,2,547136,No
+STU1319,Student_320,04-09-2025,Female,Electronics,Gorakhpur,7.21,40.7,9,4,23,3,No,No,,705063,No
+STU1217,Student_218,04-03-2025,Female,I.T ,Prayagraj,6.24,82,4,3,32,4,Yes,Yes,2,506087,No
+STU1563,Student_564,12-06-2025,Male,CSE,Patna,7.44,88.2,3,2,60,3,No,No,2,303902,Yes
+STU1098,Student_99,09-03-2025,Male,CSE,Patna,9.08,82,6,4,48,3,Yes,No,0,698510,Yes
+STU1425,Student_426,09-03-2025,Female,I.T ,Varanasi,8.09,90.9,6,5,104,5,Yes,No,1,496069,No
+STU1433,Student_434,08-01-2025,Female,Mech ,Kanpur,"5,29",71.5,2,2,31,2,No,Yes,5,798643,No
+STU1377,Student_378,25-11-2025,Male,Mech ,,5.63,75.9,6,4,325,1,No,Yes,3,673272,Yes
+STU1442,Student_443,21-09-2025,Male,I.T ,Kanpur,6.51,78.8,0,0,105,4,No,No,2,931255,No
+STU1277,Student_278,14-06-2025,Female,civil,Delhi,7.79,64.3,1,2,97,1,Yes,No,4,782116,No
+STU1384,Student_385,22-10-2025,Female,ece,Lucknow,7.46,40,2,2,34,5,Yes,No,6,495770,Yes
+STU1509,Student_510,16-01-2025,Female, Computer Science,Lucknow,7.56,57.8,2,3,6,2,Yes,Yes,1,888021,Yes
+STU1430,Student_431,06-02-2025,Female,MECH,Kanpur,8.57,75.6,4,1,85,4,Yes,No,4,927861,No
+STU1285,Student_286,04-11-2025,Female,cse,Delhi,6.94,47.5,4,1,110,3,Yes,No,5,385760,Yes
+STU1097,Student_98,16-06-2025,Male,MECH,Gorakhpur,7.24,56.8,1,0,22,3,No,No,0,542771,Yes
+STU1585,Student_586,22-04-2025,Female,Mech ,Delhi,6.44,69.8,8,3,192,4,Yes,No,2,448357,Yes
+STU1308,Student_309,15-03-2025,Male,ece,Lucknow,8.13,87.4,9,3,169,2,Yes,No,0,331066,Yes
+STU1193,Student_194,14-12-2025,Male,E.C.E,Delhi,5.88,78,6,2,177,1,Yes,No,5,1149286,Yes
+STU1559,Student_560,07-12-2025,Male,Electronics,Delhi,6.68,89,5,5,24,1,Yes,No,6,100000,Yes
+STU1055,Student_56,10-11-2025,Female,Mechanical,Patna,6.22,74,4,5,41,5,No,No,2,639317,Yes
+STU1455,Student_456,22-12-2025,Male,ECE,Varanasi,7.06,,6,4,139,2,No,Yes,1,614992,Yes
+STU1464,Student_465,24-07-2025,Male,ece,Gorakhpur,"6,72",76.9,3,1,240,2,No,No,3,640877,No
+STU1422,Student_423,07-11-2025,Male,Electronics,Delhi,8.54,100,5,4,57,2,No,No,4,188467,No
+STU1344,Student_345,03-11-2025,Female,Cse ,Varanasi,7.39,64.8,2,1,400,4,No,Yes,0,1217929,Yes
+STU1236,Student_237,08-08-2025,Female,ECE,Varanasi,6.49,84.8,9,5,274,2,No,No,0,878056,Yes
+STU1506,Student_507,12-11-2025,Male,cse,Kanpur,7.09,91,4,5,61,4,Yes,No,4,462629,Yes
+STU1382,Student_383,05-06-2025,Male,CSE,Varanasi,7.41,62,0,1,76,1,Yes,No,2,499162,Yes
+STU1411,Student_412,27-11-2025,Male,IT,Kanpur,5.37,81.4,4,0,129,2,No,No,5,764087,No
+STU1355,Student_356,04-09-2025,Female,Cse ,Varanasi,7.78,81.6,6,3,41,4,Yes,Yes,4,694490,No
+STU1333,Student_334,05-10-2025,Male,C.S.E,Lucknow,7.25,69.6,2,2,110,3,No,No,0,727405,No
+STU1573,Student_574,16-12-2025,Female,cse,Varanasi,9,66.1,9,0,81,1,No,Yes,3,,Yes
+STU1046,Student_47,12-03-2025,Male,CSE,Kanpur,6.19,65.6,4,5,7,2,No,No,,767564,Yes
+STU1248,Student_249,17-06-2025,Male,eee,Delhi,8.2,85.6,4,5,64,3,Yes,No,3,1453588,No
+STU1221,Student_222,27-12-2025,Male,Cse ,Delhi,5.43,88.9,4,3,8,3,No,Yes,2,,No
+STU1504,Student_505,15-01-2025,Female,Mechanical,Varanasi,6.95,86.2,6,3,29,3,No,No,2,533881,Yes
+STU1586,Student_587,12-01-2025,Female,E.C.E,,5.55,64.2,0,0,116,3,No,No,3,647491,Yes
+STU1320,Student_321,22-08-2025,Male,it,Delhi,7.23,72.5,6,2,16,1,No,No,1,580259,No
+STU1082,Student_83,18-04-2025,Male,Electronics,Kanpur,9.05,73.1,3,5,216,1,Yes,No,4,1055037,Yes
+STU1272,Student_273,15-12-2025,Female,Electrical,Gorakhpur,7.18,87.1,2,0,78,5,Yes,No,0,765586,No
+STU1023,Student_24,22-06-2025,Male,Electronics,Kanpur,6.55,82.4,6,0,35,3,No,Yes,2,670320,Yes
+STU1557,Student_558,10-04-2025,Female,Civil ,Prayagraj,8.44,56.1,4,0,154,4,No,Yes,0,671506,Yes
+STU1505,Student_506,20-04-2025,Female,Mechanical,Lucknow,"6,31",70.2,4,2,84,3,Yes,No,0,792391,Yes
+STU1328,Student_329,08-07-2025,Male,Information Technology,Patna,"7,41",92.4,1,0,50,3,No,Yes,0,1119428,No
+STU1446,Student_447,26-05-2025,Male,C.S.E,Prayagraj,7.08,63.8,2,2,83,1,No,No,2,480661,Yes
+STU1038,Student_39,27-06-2025,Male,Civil ,Lucknow,8.67,,8,2,122,1,No,Yes,0,348760,No
+STU1540,Student_541,01-09-2025,Male,Electronics,Prayagraj,6.98,83.5,4,5,8,2,Yes,No,4,804134,Yes
+STU1010,Student_11,09-12-2025,Male,E.C.E,Patna,7.14,72,9,3,22,1,No,No,6,353583,No
+STU1458,Student_459,17-07-2025,Male,ECE,Prayagraj,4.27,100,0,5,107,2,Yes,Yes,5,1271850,Yes
+STU1032,Student_33,21-01-2025,Female,ECE,Delhi,7.01,86,3,3,141,4,No,No,3,507398,Yes
+STU1337,Student_338,21-07-2025,Male,ECE,Patna,7.28,66.3,5,0,7,2,No,No,0,867272,No
+STU1318,Student_319,05-11-2025,Female,C.S.E,Varanasi,6.83,67.8,6,2,246,1,No,No,1,968187,Yes
+STU1025,Student_26,15-08-2025,Male,cse,Gorakhpur,8.96,58.8,3,3,65,1,Yes,No,3,757256,No
+STU1261,Student_262,07-12-2025,Female,Cse ,Patna,5.99,87.5,6,3,59,1,Yes,No,0,826575,No
+STU1538,Student_539,23-10-2025,Male,C.S.E,Gorakhpur,8.17,79.4,5,4,73,2,No,Yes,0,983092,Yes
+STU1259,Student_260,19-02-2025,Male,I.T ,Delhi,5.86,85.5,1,0,7,1,Yes,Yes,3,143305,Yes
+STU1305,Student_306,14-09-2025,Male,mech,Lucknow,6.81,74.5,7,3,176,3,No,Yes,1,854554,Yes
+STU1154,Student_155,10-11-2025,Female,CSE,Kanpur,8.3,77.6,2,0,5,2,No,Yes,4,1043838,No
+STU1252,Student_253,27-04-2025,Male,IT,Patna,6.16,99.4,8,6,0,2,No,No,1,816660,Yes
+STU1089,Student_90,02-07-2025,Female,Civil ,Delhi,9.74,76.7,5,1,44,,Yes,Yes,6,739853,Yes
+STU1065,Student_66,25-09-2025,Female,MECH,Prayagraj,7.9,85.3,1,3,45,2,No,Yes,6,994442,Yes
+STU1358,Student_359,03-06-2025,Female,Information Technology,Varanasi,7.54,88.8,4,1,111,2,Yes,Yes,1,897742,Yes
+STU1323,Student_324,09-01-2025,Female,IT,Gorakhpur,8.19,74.1,6,1,146,2,Yes,Yes,4,160232,No
+STU1593,Student_594,08-02-2025,Female,cse,Kanpur,5.72,77.1,3,1,191,1,No,No,6,551976,No
+STU1289,Student_290,09-01-2025,Female,IT,Kanpur,7.23,77,4,0,62,2,No,Yes,0,722138,No
+STU1409,Student_410,25-09-2025,Female,C.S.E,Gorakhpur,6.97,,4,3,30,3,No,No,0,559057,No
+STU1159,Student_160,11-08-2025,Female,E.C.E,Patna,6.25,49.5,0,3,49,2,No,No,0,167594,No
+STU1576,Student_577,05-01-2025,Male,CSE,Kanpur,8.1,63.8,2,4,40,2,Yes,No,5,375380,No
+STU1340,Student_341,03-05-2025,Female,Cse ,,8.97,68.2,7,2,0,3,Yes,Yes,2,603172,Yes
+STU1357,Student_358,10-05-2025,Male,I.T ,Gorakhpur,7.14,79.7,3,2,45,5,No,No,6,434995,No
+STU1040,Student_41,01-06-2025,Female,Cse ,Lucknow,5.35,60.9,6,0,136,3,Yes,Yes,,1035353,No
+STU1426,Student_427,01-12-2025,Male,Information Technology,Varanasi,7.89,70.1,10,2,77,3,No,No,3,582733,No
+STU1431,Student_432,01-01-2025,Male,eee,Varanasi,7.1,77.9,5,6,230,2,No,Yes,1,699508,Yes
+STU1301,Student_302,15-11-2025,Male,IT,Varanasi,7.55,63.8,4,3,23,2,Yes,Yes,4,687039,Yes
+STU1484,Student_485,12-06-2025,Female,CSE,Delhi,7.66,62.3,0,0,62,3,Yes,Yes,0,569635,Yes
+STU1371,Student_372,15-11-2025,Female,Mech ,Delhi,6.35,76.5,6,5,12,3,No,No,0,786359,No
+STU1450,Student_451,27-10-2025,Female,civil,Delhi,6.97,76.8,9,0,10,2,No,No,3,1135538,No
+STU1056,Student_57,07-09-2025,Male,IT,Delhi,8.27,78.4,4,2,26,3,Yes,No,3,100000,No
+STU1316,Student_317,19-07-2025,Male,Electronics,Patna,7.11,63.2,4,3,164,1,No,No,3,751580,Yes
+STU1071,Student_72,07-05-2025,Female,civil,Varanasi,6.2,71,5,5,94,4,Yes,No,3,618574,No
+STU1471,Student_472,26-09-2025,Male,CSE,Lucknow,8.47,79.7,0,7,161,3,Yes,No,4,755721,No
+STU1415,Student_416,14-05-2025,Female,IT,Gorakhpur,8.33,89.9,3,1,219,3,Yes,No,2,401512,Yes
+STU1090,Student_91,23-08-2025,Male,I.T ,Patna,6.78,73.4,7,0,16,3,No,Yes,4,145573,No
+STU1166,Student_167,01-05-2025,Female,Information Technology,Patna,7.73,82.3,8,4,100,3,Yes,No,5,664861,No
+STU1270,Student_271,24-07-2025,Male,eee,Lucknow,7.83,85.1,5,4,57,2,Yes,Yes,1,654429,Yes
+STU1170,Student_171,24-10-2025,Female,Mechanical,Patna,7.25,66.7,8,6,61,3,No,Yes,7,791980,Yes
+STU1054,Student_55,16-12-2025,Male,EEE,Prayagraj,7.5,64.1,2,2,13,1,Yes,Yes,4,100000,No
+STU1566,Student_567,01-03-2025,Female,CSE,Varanasi,5.4,,5,7,42,2,Yes,No,4,625434,Yes
+STU1429,Student_430,21-12-2025,Female,civil,Delhi,5.44,100,2,5,27,2,No,No,0,661481,Yes
+STU1381,Student_382,26-12-2025,Male,Cse ,Patna,4,75.1,5,8,250,2,No,No,3,645690,Yes
+STU1066,Student_67,01-04-2025,Female,ece,Prayagraj,7.34,73,7,2,27,,Yes,No,3,487547,Yes
+STU1568,Student_569,14-04-2025,Female,Information Technology,Kanpur,5.96,77.6,5,2,74,2,Yes,No,1,415008,No
+STU1455,Student_456,22-12-2025,Male,ECE,Varanasi,7.06,,6,4,139,2,No,Yes,1,614992,Yes
+STU1204,Student_205,10-04-2025,Female,IT,Kanpur,7.48,88.3,6,7,6,3,No,Yes,0,597319,Yes
+STU1451,Student_452,14-09-2025,Female,ECE,Kanpur,6.34,,8,4,86,3,No,Yes,0,779948,Yes
+STU1291,Student_292,17-04-2025,Male,ece,Prayagraj,8.01,99.3,1,1,38,3,Yes,Yes,1,202685,No
+STU1120,Student_121,27-03-2025,Male,C.S.E,Gorakhpur,7.19,74.9,5,2,214,,No,Yes,0,802138,Yes
+STU1313,Student_314,23-12-2025,Male,I.T ,Kanpur,7.1,72.1,7,3,133,1,No,No,3,726655,Yes
+STU1240,Student_241,01-06-2025,Male,it,Prayagraj,5.67,58.2,8,3,9,4,No,No,3,370351,Yes
+STU1378,Student_379,22-08-2025,Male,EEE,Kanpur,7.55,,4,1,11,3,Yes,Yes,1,106259,Yes
+STU1173,Student_174,19-10-2025,Female,MECH,Kanpur,8.11,70.8,1,0,14,2,Yes,No,2,879113,No
+STU1466,Student_467,22-11-2025,Male,Information Technology,Kanpur,8.8,100,5,5,450,4,Yes,Yes,5,100000,Yes
+STU1454,Student_455,10-11-2025,Female,MECH,Prayagraj,5.6,82.3,3,4,75,2,Yes,No,6,495454,No
+STU1518,Student_519,08-04-2025,Male,Information Technology,Gorakhpur,7.78,79.6,5,1,403,1,Yes,Yes,3,166656,Yes
+STU1417,Student_418,04-10-2025,Male,Cse ,Varanasi,5.75,77.6,2,1,47,2,No,No,5,344073,No
+STU1118,Student_119,01-09-2025,Male,civil,Gorakhpur,7.96,81.6,8,5,141,4,Yes,No,3,509770,Yes
+STU1119,Student_120,10-02-2025,Female,Civil ,Lucknow,6.71,73.1,4,3,123,3,No,No,2,611908,No
+STU1596,Student_597,20-12-2025,Male,ECE,Lucknow,7.54,72.2,2,4,46,2,No,No,0,301954,Yes
+STU1406,Student_407,03-07-2025,Male,Mech ,Patna,"5,99",86.5,2,0,61,4,Yes,Yes,1,444346,Yes
+STU1214,Student_215,07-06-2025,Female,C.S.E,Varanasi,8.32,100,6,0,136,4,Yes,Yes,3,422406,Yes
+STU1138,Student_139,03-06-2025,Female,Electrical,Delhi,8.32,70.4,6,2,157,3,No,Yes,4,861246,No
+STU1145,Student_146,25-04-2025,Female,it,Varanasi,5.16,68.2,4,3,247,2,No,Yes,4,511695,No
+STU1148,Student_149,13-03-2025,Male,Cse ,Gorakhpur,8.55,83.9,2,0,122,2,Yes,Yes,4,289025,No
+STU1477,Student_478,27-05-2025,Female,C.S.E,Prayagraj,6.81,100,11,1,15,3,No,No,0,872718,Yes
+STU1304,Student_305,13-01-2025,Female,ECE,Kanpur,7.33,83.4,0,3,9,2,No,Yes,3,913347,No
+STU1162,Student_163,13-11-2025,Female,mech,Gorakhpur,10,87.8,4,2,335,2,No,No,0,476839,Yes
+STU1493,Student_494,25-11-2025,Female,Mechanical,Gorakhpur,6.03,77.2,0,0,131,2,No,Yes,2,179378,Yes
+STU1394,Student_395,22-03-2025,Male,I.T ,Prayagraj,7.35,67.6,9,2,126,3,Yes,Yes,3,553934,Yes
+STU1479,Student_480,16-11-2025,Female,Electronics,Patna,7.57,80,5,4,68,1,Yes,No,2,,Yes
+STU1150,Student_151,11-02-2025,Male,Mech ,,7.66,79.5,2,4,3,1,Yes,No,1,100000,Yes
+STU1440,Student_441,07-11-2025,Female,ECE,Lucknow,7.74,83,0,2,3,2,Yes,Yes,1,611316,Yes
+STU1370,Student_371,08-01-2025,Male,IT,Patna,7.57,84.7,2,4,7,2,Yes,Yes,1,197014,No
+STU1222,Student_223,03-09-2025,Female,C.S.E,Patna,7.74,87.2,2,0,380,4,No,Yes,3,,Yes
+STU1031,Student_32,16-03-2025,Female,ECE,Gorakhpur,7.58,85.4,3,2,12,2,Yes,Yes,7,666923,No
+STU1339,Student_340,10-01-2025,Female,C.S.E,Varanasi,6.39,83.8,1,7,311,1,Yes,No,1,922711,Yes
+STU1280,Student_281,26-06-2025,Female,Civil ,Varanasi,8.73,91.5,4,3,80,2,No,Yes,2,563974,Yes
+STU1020,Student_21,22-03-2025,Female,Information Technology,Prayagraj,8.15,74,4,2,71,4,Yes,Yes,3,1123180,Yes
+STU1113,Student_114,02-10-2025,Female,IT,Varanasi,7.91,71,4,0,293,2,Yes,No,4,180694,Yes
+STU1354,Student_355,01-01-2025,Male,Cse ,Delhi,7.74,,4,2,195,4,No,Yes,0,403531,Yes
+STU1000,Student_1,23-05-2025,Female,eee,Delhi,6.06,62.4,6,4,10,3,No,Yes,4,,No
+STU1551,Student_552,07-02-2025,Female,eee,Delhi,5.95,76,8,3,156,2,No,Yes,2,682330,No
+STU1321,Student_322,18-08-2025,Female,Cse ,Lucknow,4.61,61.5,9,2,23,2,No,Yes,1,464214,No
+STU1548,Student_549,23-04-2025,Female,C.S.E,Gorakhpur,5.33,73.8,6,1,120,1,No,Yes,2,777540,Yes
+STU1229,Student_230,17-05-2025,Male,Electronics,Patna,"6,79",,7,2,61,2,No,No,3,1182260,No
+STU1591,Student_592,04-08-2025,Male,civil,Lucknow,7.63,63.7,8,5,329,2,Yes,No,0,882765,Yes
+STU1528,Student_529,08-07-2025,Female,ece,Gorakhpur,6.38,64.5,6,4,57,1,No,Yes,0,270569,No
+STU1002,Student_3,22-06-2025,Female,it,Gorakhpur,6.3,67.9,6,5,41,2,No,Yes,0,762946,No
+STU1580,Student_581,22-03-2025,Female,eee,Kanpur,8.74,62.3,4,7,145,2,Yes,No,0,510607,No
+STU1058,Student_59,15-05-2025,Female,CSE,Varanasi,7.09,64.9,4,3,95,3,No,No,0,100000,No
+STU1383,Student_384,26-06-2025,Male,ECE,Gorakhpur,8.04,84.2,7,4,12,3,Yes,Yes,2,716441,No
+STU1322,Student_323,07-07-2025,Male,EEE,Kanpur,5.06,69.2,2,1,43,1,No,No,3,656240,No
+STU1004,Student_5,08-11-2025,Female,EEE,Delhi,7.38,73.8,6,4,71,2,No,No,0,260013,Yes
+STU1392,Student_393,04-09-2025,Female,Electrical,Lucknow,7.4,72,5,0,24,2,No,Yes,4,1066069,Yes
+STU1500,Student_501,19-05-2025,Female,cse,Kanpur,7.57,76,6,4,85,1,No,Yes,2,445951,No
+STU1074,Student_75,23-06-2025,Male,CSE,Kanpur,7.7,75.8,5,1,209,2,Yes,Yes,0,331737,Yes
+STU1191,Student_192,06-12-2025,Male, Computer Science,Lucknow,6.61,,2,3,8,3,No,Yes,2,480841,No
+STU1235,Student_236,21-08-2025,Female,MECH,Patna,8.92,83.7,4,5,5,,Yes,Yes,0,653114,Yes
+STU1545,Student_546,09-10-2025,Male,ece,Delhi,5.28,97,5,2,286,1,Yes,Yes,2,259779,Yes
+STU1258,Student_259,14-09-2025,Female, Computer Science,Kanpur,7.64,81.6,2,3,98,2,Yes,No,4,373305,Yes
+STU1080,Student_81,09-01-2025,Male,Mech ,Varanasi,6.42,51,0,0,71,1,No,Yes,4,329730,No
+STU1507,Student_508,22-11-2025,Male,C.S.E,Patna,8.46,62.4,5,2,240,2,Yes,Yes,4,,Yes
+STU1026,Student_27,25-01-2025,Male,Mechanical,Gorakhpur,6.68,87.1,6,4,213,3,Yes,No,2,659032,Yes
+STU1395,Student_396,01-08-2025,Male,IT,Prayagraj,6.88,,4,6,132,1,Yes,No,4,777375,Yes
+STU1216,Student_217,08-06-2025,Female,IT,Varanasi,7.48,61.8,6,3,511,3,No,No,2,178450,No
+STU1390,Student_391,16-12-2025,Male,mech,Prayagraj,8.01,77.6,7,5,5,4,Yes,No,0,347561,No
+STU1491,Student_492,07-03-2025,Female,Cse ,Delhi,8.62,94.4,4,4,112,2,Yes,Yes,0,,Yes
+STU1330,Student_331,12-01-2025,Female,I.T ,Gorakhpur,7.11,79,0,5,119,1,No,Yes,3,676366,No
+STU1057,Student_58,24-10-2025,Male,MECH,Lucknow,6.44,71,7,0,56,2,No,No,3,618900,Yes
+STU1525,Student_526,01-11-2025,Male,eee,Kanpur,5.99,63.3,2,0,48,2,No,Yes,2,918794,Yes
+STU1108,Student_109,16-07-2025,Female,eee,Prayagraj,8.39,75.6,0,4,101,1,Yes,Yes,0,616037,Yes
+STU1273,Student_274,19-04-2025,Male,Electronics,Delhi,7.82,73.8,5,1,6,3,Yes,No,5,608950,Yes
+STU1147,Student_148,20-11-2025,Female,CSE,Lucknow,7.37,83.8,6,7,28,1,No,No,0,286816,No
+STU1228,Student_229,24-08-2025,Female,MECH,Patna,7.62,58.7,6,6,245,4,Yes,Yes,1,630050,Yes
+STU1014,Student_15,12-09-2025,Male,I.T ,Lucknow,6.84,76.1,7,4,138,2,No,No,2,274683,Yes
+STU1174,Student_175,27-03-2025,Male,Mech ,Lucknow,8.89,94.2,5,1,20,4,Yes,Yes,0,583294,No
+STU1086,Student_87,23-03-2025,Male,it,Patna,4.4,48.2,6,4,144,1,No,No,1,245999,No
+STU1114,Student_115,05-01-2025,Male, Computer Science,Prayagraj,6.17,76.9,3,3,208,2,No,No,1,874387,Yes
+STU1165,Student_166,27-03-2025,Male,ECE,Lucknow,7.2,68.9,7,1,13,4,No,No,0,435578,No
+STU1527,Student_528,01-01-2025,Female,ece,Varanasi,7.2,97.8,3,2,49,2,Yes,No,2,1211632,Yes
+STU1367,Student_368,27-09-2025,Male,cse,Lucknow,6.16,83.1,3,0,14,3,No,No,5,137678,Yes
+STU1059,Student_60,11-04-2025,Male,CSE,Prayagraj,8.35,59.6,3,1,64,3,No,Yes,,532370,Yes
+STU1521,Student_522,12-02-2025,Female,MECH,Prayagraj,7.82,61.6,7,2,86,3,Yes,Yes,3,741475,No
+STU1164,Student_165,12-01-2025,Female,mech,Prayagraj,6.2,87.1,5,0,149,2,No,Yes,2,565703,No
+STU1041,Student_42,24-09-2025,Male, Computer Science,Varanasi,6.61,49,3,5,19,4,No,Yes,1,514133,No
+STU1329,Student_330,11-07-2025,Male,ece,Kanpur,7.97,74.8,2,3,148,2,Yes,No,5,706343,Yes
+STU1079,Student_80,26-09-2025,Female,Cse ,Lucknow,6.04,76.8,1,2,21,2,No,No,0,1284489,Yes
+STU1360,Student_361,15-08-2025,Male,Cse ,Delhi,7.84,74.3,7,0,313,3,Yes,Yes,0,,No
+STU1028,Student_29,05-10-2025,Male,Electrical,Patna,6.22,,4,4,142,3,No,Yes,0,878489,Yes
+STU1281,Student_282,18-11-2025,Female,it,Varanasi,8.99,69.7,6,9,11,3,No,No,1,871475,Yes
+STU1300,Student_301,03-07-2025,Female,Electronics,Lucknow,6.19,93.3,6,2,82,2,Yes,No,4,552116,No
+STU1526,Student_527,06-08-2025,Female, Computer Science,Kanpur,7.98,87.1,3,4,60,2,Yes,No,5,253779,No
+STU1598,Student_599,27-12-2025,Male,ece,Varanasi,8.15,70.7,6,0,12,4,No,No,2,709212,No
+STU1084,Student_85,01-06-2025,Female,Civil ,Gorakhpur,"6,79",70.8,5,1,0,4,No,Yes,0,100000,Yes
+STU1062,Student_63,05-11-2025,Female,C.S.E,,7.43,81.5,7,3,106,2,No,No,,100000,Yes
+STU1587,Student_588,18-11-2025,Male,Information Technology,Delhi,5.7,90.2,4,0,11,3,No,No,4,947413,No
+STU1136,Student_137,17-06-2025,Male,EEE,Varanasi,7.26,70.8,6,2,399,1,Yes,Yes,3,507293,Yes
+STU1111,Student_112,20-07-2025,Female,ece,Lucknow,6.5,76.3,6,1,3,,No,No,2,185415,No
+STU1194,Student_195,23-08-2025,Female,Cse ,Delhi,5.8,87.6,3,1,44,3,No,No,1,860902,Yes
+STU1380,Student_381,13-02-2025,Male,I.T ,Patna,7.47,74.7,4,1,87,4,No,No,0,668061,Yes
+STU1043,Student_44,25-01-2025,Female,cse,Delhi,7.55,74.1,2,3,46,1,Yes,Yes,2,100000,Yes
+STU1375,Student_376,23-06-2025,Female,CSE,Gorakhpur,6.67,89.7,8,3,240,1,No,No,0,1055816,No
+STU1129,Student_130,06-04-2025,Female,IT,Varanasi,6.48,63.6,5,0,21,2,No,No,1,518731,Yes
+STU1542,Student_543,26-10-2025,Male,Mech ,,8.01,72.4,3,1,43,3,Yes,Yes,3,876736,Yes
+STU1218,Student_219,16-04-2025,Female,Information Technology,Varanasi,6.79,,0,0,120,2,No,Yes,1,991354,No
+STU1096,Student_97,26-12-2025,Female,mech,Patna,6.55,73.3,4,4,47,4,No,Yes,6,,No
+STU1124,Student_125,22-07-2025,Male,Electronics,Varanasi,8,86.7,9,5,143,4,Yes,Yes,3,280932,No
+STU1570,Student_571,20-07-2025,Male,eee,Prayagraj,7.41,100,5,1,35,4,No,No,0,521846,Yes
+STU1226,Student_227,16-04-2025,Female,ECE,Gorakhpur,6.91,87.9,0,2,111,2,No,Yes,5,748029,No
+STU1177,Student_178,27-02-2025,Male,it,Prayagraj,6.9,95.2,4,1,25,2,Yes,No,3,1069733,Yes
+STU1410,Student_411,03-11-2025,Male,Civil ,Delhi,7.15,69.9,7,2,595,1,No,No,1,407510,No
+STU1582,Student_583,26-07-2025,Female,I.T ,Delhi,8.5,71,5,1,65,4,Yes,Yes,7,716182,Yes
+STU1569,Student_570,21-10-2025,Female,E.C.E,Kanpur,7.64,72.7,3,1,59,4,Yes,No,7,541571,Yes
+STU1103,Student_104,27-09-2025,Male, Computer Science,Lucknow,8.05,79.7,7,2,79,2,Yes,Yes,0,648617,Yes
+STU1081,Student_82,27-07-2025,Male,Mech ,Gorakhpur,6.6,50.6,2,0,515,3,No,No,2,771161,Yes
+STU1342,Student_343,24-11-2025,Male,Electrical,Varanasi,7.21,83,1,1,32,3,No,Yes,0,454589,Yes
+STU1441,Student_442,02-08-2025,Female,Mechanical,Kanpur,6.62,93.2,4,2,77,3,No,No,2,815948,No
+STU1264,Student_265,18-05-2025,Female,mech,Gorakhpur,6.11,59.2,2,1,103,3,No,No,1,688830,Yes
+STU1306,Student_307,15-03-2025,Female,it,Gorakhpur,7.6,82,6,4,512,4,Yes,No,2,583777,Yes
+STU1227,Student_228,01-11-2025,Female,Electronics,Delhi,7.34,79.4,4,0,256,,No,No,2,565399,No
+STU1275,Student_276,18-03-2025,Female,Mech ,Prayagraj,"8,32",65.4,3,3,137,2,Yes,Yes,2,1636213,No
+STU1571,Student_572,03-10-2025,Female,Mech ,Gorakhpur,7.31,74.3,9,3,2,4,No,Yes,4,561135,Yes
+STU1263,Student_264,09-10-2025,Female,CSE,Kanpur,6.4,78.3,10,2,104,1,No,Yes,5,1002076,Yes
+STU1467,Student_468,05-11-2025,Female,CIVIL,Delhi,12.5,82.8,3,0,82,1,No,Yes,1,701012,Yes
+STU1253,Student_254,20-12-2025,Female,Mech ,Patna,8.12,75.4,4,2,129,3,Yes,Yes,2,721012,Yes
+STU1171,Student_172,01-07-2025,Female,IT,Prayagraj,6.14,89.6,8,5,35,2,No,Yes,2,1023048,No
+STU1237,Student_238,24-10-2025,Male,Cse ,Lucknow,7.99,94.6,5,0,35,4,Yes,No,,855258,Yes
+STU1560,Student_561,09-03-2025,Male,E.C.E,Delhi,7.56,93.9,5,6,53,2,Yes,Yes,3,484236,Yes
+STU1139,Student_140,13-10-2025,Male,C.S.E,Kanpur,6.41,94.8,6,2,136,1,No,No,3,748902,Yes
+STU1303,Student_304,27-11-2025,Male,C.S.E,Lucknow,8.29,99.4,3,1,193,4,No,Yes,0,,Yes
+STU1267,Student_268,09-07-2025,Male,I.T ,Patna,7.6,80.1,5,4,43,2,No,No,1,,No
+STU1543,Student_544,12-03-2025,Female,eee,Lucknow,8.65,75.5,7,1,101,1,No,Yes,0,802836,Yes
+STU1369,Student_370,11-09-2025,Male,C.S.E,Gorakhpur,7.38,51.5,5,0,49,3,No,Yes,3,238794,No
+STU1212,Student_213,17-04-2025,Male, Computer Science,Patna,5.7,61.7,2,1,74,1,No,No,0,565258,No
+STU1198,Student_199,17-03-2025,Female,ece,Varanasi,6.53,75.7,10,2,23,3,No,Yes,2,1075801,Yes
+STU1023,Student_24,22-06-2025,Male,Electronics,Kanpur,6.55,82.4,6,0,35,3,No,Yes,2,670320,Yes
+STU1015,Student_16,26-08-2025,Male,CIVIL,Patna,6.88,92.5,1,1,7,2,No,Yes,0,441168,Yes
+STU1163,Student_164,12-02-2025,Male,C.S.E,Gorakhpur,"5,81",69.6,1,2,39,2,No,No,3,604838,No
+STU1529,Student_530,02-12-2025,Male,eee,Kanpur,7.18,73.8,7,1,64,1,No,No,0,1120807,No
+STU1532,Student_533,06-11-2025,Male,mech,Prayagraj,6,85.5,8,1,67,2,No,No,3,519717,No
+STU1408,Student_409,06-08-2025,Female,Information Technology,Lucknow,8.8,72.8,1,0,9999,5,Yes,No,1,514105,No
+STU1037,Student_38,05-02-2025,Female,Information Technology,Patna,7.57,86.9,5,1,119,2,Yes,Yes,0,579605,Yes
+STU1515,Student_516,20-08-2025,Female,civil,Varanasi,5.93,61.2,8,5,88,1,No,No,0,503607,No
+STU1206,Student_207,14-10-2025,Female,ECE,Varanasi,8.66,65.8,3,7,200,2,Yes,Yes,2,827505,Yes
+STU1295,Student_296,04-06-2025,Female,ece,Lucknow,5.38,88.2,6,3,145,2,No,Yes,3,100000,Yes
+STU1437,Student_438,02-08-2025,Female,civil,Prayagraj,8.75,74.2,2,0,12,1,Yes,No,4,469963,No
+STU1073,Student_74,09-01-2025,Male,ece,Delhi,5.99,93.6,6,0,142,3,No,Yes,2,623696,Yes
+STU1388,Student_389,19-12-2025,Male,IT,Varanasi,8.05,83.3,3,3,66,3,Yes,Yes,2,,Yes
+STU1104,Student_105,11-02-2025,Male,Electrical,Lucknow,7.58,78.4,4,0,38,4,Yes,Yes,2,765060,Yes
+STU1201,Student_202,16-11-2025,Male,Civil ,Patna,8.85,78.2,6,1,108,3,No,No,3,570049,Yes
+STU1016,Student_17,04-12-2025,Female,Mech ,Patna,5.59,100,10,0,61,5,No,No,3,1118609,Yes
+STU1091,Student_92,20-02-2025,Male,eee,Prayagraj,7.81,,5,3,138,1,Yes,No,0,628254,Yes
+STU1088,Student_89,12-02-2025,Male,CSE,Lucknow,5.13,82.9,2,4,50,5,No,No,7,535858,Yes
+STU1492,Student_493,09-07-2025,Female,I.T ,Lucknow,6.75,78.9,3,5,3,2,Yes,No,3,806060,Yes
+STU1205,Student_206,02-03-2025,Male,Information Technology,Varanasi,7.45,,3,2,13,,No,No,4,400481,Yes
+STU1102,Student_103,11-10-2025,Male,Mech ,,8.12,75.2,5,2,137,,Yes,Yes,,382697,No
+STU1238,Student_239,16-02-2025,Female,it,Prayagraj,7.15,80.2,3,0,33,3,No,No,6,623535,Yes
+STU1385,Student_386,22-11-2025,Female,ECE,Kanpur,8.52,100,6,2,218,3,Yes,No,5,420240,No
+STU1246,Student_247,01-01-2025,Female,CIVIL,Varanasi,5.75,76,8,1,36,1,No,Yes,1,365642,Yes
+STU1157,Student_158,12-09-2025,Male, Computer Science,Prayagraj,"6,43",87.5,5,2,358,1,No,No,1,117357,No
+STU1326,Student_327,18-04-2025,Male,Electronics,Prayagraj,5.59,76.9,2,1,32,3,No,Yes,0,621176,No
+STU1133,Student_134,24-06-2025,Female,Civil ,,7.92,77.7,4,6,9,2,No,No,2,363004,Yes
+STU1397,Student_398,20-01-2025,Male,C.S.E,Gorakhpur,10,70.6,0,4,68,3,Yes,Yes,4,165492,No
+STU1547,Student_548,24-12-2025,Female,ece,Delhi,6.02,98.5,6,3,55,3,No,No,1,649067,No
+STU1018,Student_19,27-03-2025,Male,C.S.E,Patna,10,68.8,10,6,89,1,No,Yes,0,878231,No
+STU1472,Student_473,27-09-2025,Male,C.S.E,Varanasi,5.21,,11,1,82,,No,Yes,5,731600,Yes
+STU1490,Student_491,21-09-2025,Female,ece,Gorakhpur,9.94,94,4,6,1,4,Yes,No,0,231016,No
+STU1351,Student_352,14-06-2025,Male,IT,Lucknow,6.37,85.1,7,5,116,,No,No,1,467973,No
+STU1274,Student_275,10-09-2025,Male,CSE,Prayagraj,6.31,69.5,3,5,23,2,No,Yes,3,824054,Yes
+STU1461,Student_462,21-12-2025,Female,it,Prayagraj,8.24,73.5,4,1,316,1,Yes,No,0,1007201,No
+STU1536,Student_537,18-06-2025,Male,ECE,Delhi,8.02,89.3,3,1,116,4,Yes,No,3,691129,No
+STU1311,Student_312,07-11-2025,Male,E.C.E,Lucknow,8.07,76.8,9,1,146,2,Yes,No,3,996273,Yes
+STU1435,Student_436,15-04-2025,Male,ece,Kanpur,8.27,82.8,3,3,74,2,No,No,2,100000,No
+STU1489,Student_490,19-08-2025,Female,Cse ,Prayagraj,7.18,74.7,1,2,129,1,No,Yes,5,801896,Yes
+STU1268,Student_269,20-08-2025,Female,Mechanical,Varanasi,6.22,76,2,1,39,3,No,Yes,3,,No
+STU1034,Student_35,13-06-2025,Female,ECE,Kanpur,7.94,94,3,4,71,2,Yes,No,5,,Yes
+STU1181,Student_182,10-09-2025,Female,EEE,Delhi,6.79,62.8,2,2,56,1,No,Yes,1,316673,No
+STU1184,Student_185,07-11-2025,Female,MECH,Varanasi,7.83,100,4,2,210,3,Yes,Yes,5,401679,Yes
+STU1207,Student_208,16-01-2025,Male,Cse ,Gorakhpur,8.98,70,6,3,119,2,Yes,Yes,2,806295,Yes
+STU1094,Student_95,06-10-2025,Female,IT,Patna,6.96,80.2,4,3,133,1,Yes,No,3,823649,No
+STU1519,Student_520,22-09-2025,Female,Cse ,Gorakhpur,8.36,65.1,4,0,6,2,Yes,No,2,544571,No
+STU1416,Student_417,17-05-2025,Male,E.C.E,Delhi,7.22,77.6,6,3,143,3,Yes,No,2,859375,Yes
+STU1353,Student_354,08-10-2025,Male,Cse ,Prayagraj,7.88,89.9,5,1,432,4,Yes,No,2,506640,Yes
+STU1122,Student_123,23-01-2025,Male,IT,Delhi,4.96,85.9,5,0,6,2,Yes,Yes,3,392419,Yes
+STU1470,Student_471,02-11-2025,Female,Civil ,Gorakhpur,8.62,75.8,5,2,1,4,No,No,1,236089,No
+STU1078,Student_79,16-06-2025,Male,CSE,Kanpur,7.19,85.4,1,2,155,2,No,No,1,825036,Yes
+STU1350,Student_351,11-06-2025,Female,Mech ,Varanasi,8.06,60.2,1,3,59,3,Yes,No,3,759475,Yes
+STU1061,Student_62,05-07-2025,Male,E.C.E,Varanasi,7.01,78.1,6,2,47,3,No,No,3,776864,Yes
+STU1251,Student_252,05-03-2025,Female,Mechanical,Delhi,8.22,83,6,2,46,3,No,No,0,737970,Yes
+STU1125,Student_126,15-02-2025,Male,it,Gorakhpur,5.95,59.4,0,2,100,3,No,No,1,921391,No
+STU1439,Student_440,26-10-2025,Male,ece,Varanasi,8.59,73.5,6,5,83,1,Yes,Yes,0,462516,Yes
+STU1436,Student_437,16-07-2025,Female,CIVIL,Kanpur,7.44,85.3,7,4,104,3,No,Yes,5,100000,No
+STU1592,Student_593,06-11-2025,Female,IT,Varanasi,6.78,94.8,2,7,12,3,No,No,5,1038755,Yes
+STU1347,Student_348,11-03-2025,Male, Computer Science,Prayagraj,5.73,72.8,5,4,119,3,Yes,No,4,865256,Yes
+STU1485,Student_486,18-05-2025,Male,cse,Kanpur,6.05,73,5,5,34,3,No,Yes,1,784784,Yes
+STU1574,Student_575,27-05-2025,Male,Information Technology,Varanasi,7.04,79.8,4,3,25,2,No,No,1,582179,No
+STU1387,Student_388,21-03-2025,Female,I.T ,Kanpur,6.68,74.3,1,4,79,2,No,No,1,,Yes
+STU1067,Student_68,15-03-2025,Female,Electrical,Gorakhpur,5.38,74.7,2,0,5,2,No,No,3,722948,No
+STU1024,Student_25,04-06-2025,Male,C.S.E,Gorakhpur,7.62,95.8,7,0,70,2,Yes,Yes,5,857038,No
+STU1453,Student_454,27-05-2025,Female,EEE,Kanpur,5.92,63.2,7,1,67,4,No,No,0,1060772,Yes
+STU1498,Student_499,02-12-2025,Male,cse,Lucknow,7.57,77.4,8,1,116,3,Yes,No,0,636048,Yes
+STU1509,Student_510,16-01-2025,Female, Computer Science,Lucknow,7.56,57.8,2,3,6,2,Yes,Yes,1,888021,Yes
+STU1126,Student_127,16-08-2025,Female,CIVIL,Patna,7.24,68.6,5,2,347,3,No,No,4,100000,Yes
+STU1541,Student_542,18-05-2025,Male,ECE,,6.61,,4,6,40,1,No,No,0,813729,No
+STU1334,Student_335,25-01-2025,Female,Cse ,Patna,5.65,66.8,9,3,19,2,No,Yes,4,479811,No
+STU1575,Student_576,02-12-2025,Female,civil,Gorakhpur,6.15,73.6,10,1,84,,No,No,0,617147,No
+STU1178,Student_179,24-07-2025,Male, Computer Science,Gorakhpur,6.96,79.7,7,1,63,1,Yes,No,0,216150,Yes
+STU1468,Student_469,02-03-2025,Male,eee,Gorakhpur,6.86,,2,3,23,2,No,No,0,812112,Yes
+STU1558,Student_559,22-12-2025,Female,Cse ,Delhi,4.57,79.1,0,6,59,2,No,Yes,2,596173,No
+STU1135,Student_136,15-04-2025,Male,I.T ,Lucknow,7.93,66.1,9,1,33,3,No,No,0,830060,Yes
+STU1223,Student_224,21-12-2025,Male,MECH,Varanasi,6.31,93.1,4,0,109,2,No,No,2,100000,Yes
+STU1595,Student_596,02-02-2025,Female,ECE,Kanpur,5,59.4,3,0,330,1,No,Yes,3,535371,Yes
+STU1561,Student_562,23-08-2025,Male,I.T ,Prayagraj,8.48,86.9,4,4,18,3,Yes,No,2,836854,Yes
+STU1501,Student_502,25-05-2025,Female,CSE,Kanpur,6.53,68.4,5,1,73,,No,Yes,3,647489,No
+STU1093,Student_94,11-01-2025,Male, Computer Science,Gorakhpur,7.96,84.2,5,4,104,2,No,Yes,5,344352,Yes
+STU1478,Student_479,14-12-2025,Male,IT,Patna,8.27,,6,2,95,3,No,No,2,675445,Yes
+STU1069,Student_70,17-04-2025,Female,Electronics,Kanpur,7.97,,5,1,39,3,No,Yes,7,186805,Yes
+STU1036,Student_37,14-07-2025,Female,Cse ,Delhi,6.09,84.7,6,4,97,3,No,Yes,0,290321,Yes
+STU1296,Student_297,22-11-2025,Male,CSE,Delhi,7.67,68.8,5,5,36,2,No,Yes,7,,Yes
+STU1160,Student_161,07-12-2025,Female,IT,Lucknow,7.88,96.6,0,0,51,2,Yes,No,6,426945,Yes
+STU1362,Student_363,04-01-2025,Female,ECE,Patna,7.31,81.8,7,7,10,1,No,No,1,423218,No
+STU1011,Student_12,12-04-2025,Male,E.C.E,Varanasi,7.16,63.3,3,3,22,1,No,Yes,5,665814,No
+STU1144,Student_145,02-11-2025,Male,eee,Delhi,7.76,80.8,6,2,52,1,Yes,Yes,6,764694,Yes
+STU1503,Student_504,05-06-2025,Male, Computer Science,Lucknow,8.91,,6,3,366,1,Yes,No,1,479223,Yes
+STU1127,Student_128,15-09-2025,Female,CSE,Lucknow,8.33,63.7,0,5,131,2,Yes,Yes,0,478922,No
+STU1403,Student_404,17-03-2025,Male,Electrical,Delhi,9.55,87.3,4,0,56,2,Yes,No,4,552510,No
+STU1302,Student_303,12-08-2025,Female,I.T ,Kanpur,6.19,90.7,5,0,53,3,No,No,3,606359,Yes
+STU1009,Student_10,09-06-2025,Female,ece,Varanasi,7.66,68.2,2,0,63,2,Yes,No,4,647114,Yes
+STU1523,Student_524,21-12-2025,Male,IT,Delhi,9.48,92.3,10,3,239,1,Yes,Yes,2,603336,No
+STU1176,Student_177,21-04-2025,Female, Computer Science,Kanpur,7.38,71,8,1,80,3,No,Yes,0,389974,Yes
+STU1231,Student_232,22-05-2025,Female,ECE,Delhi,8.41,52.3,6,0,41,,No,Yes,4,892425,No
+STU1210,Student_211,25-09-2025,Female,it,Varanasi,10,77.4,4,0,111,3,Yes,No,1,702132,Yes
+STU1128,Student_129,13-05-2025,Female,Mech ,Varanasi,7.16,62.7,2,1,280,,Yes,Yes,0,327269,Yes
+STU1143,Student_144,15-06-2025,Female,C.S.E,Lucknow,"6,16",93,50,4,125,5,No,Yes,0,510104,Yes
+STU1241,Student_242,16-11-2025,Female,C.S.E,Prayagraj,8.15,74.8,7,1,34,3,No,No,4,580838,No
+STU1007,Student_8,21-11-2025,Male,I.T ,Varanasi,5.3,60.6,6,3,49,3,No,Yes,5,528193,Yes
+STU1404,Student_405,05-04-2025,Female,civil,Kanpur,7.09,75.2,6,1,211,4,No,No,2,749706,Yes
+STU1298,Student_299,06-05-2025,Male,E.C.E,Gorakhpur,7.48,80.6,3,4,82,2,Yes,Yes,5,284874,Yes
+STU1310,Student_311,09-07-2025,Female,C.S.E,Gorakhpur,7.67,67.6,3,3,1,,Yes,No,0,492417,No
+STU1254,Student_255,15-05-2025,Female,Electronics,Kanpur,8.46,96.7,3,2,63,,No,No,2,,Yes
+STU1520,Student_521,16-03-2025,Female,Mech ,Lucknow,7.86,59.4,4,2,76,,No,No,0,426855,No
+STU1531,Student_532,07-04-2025,Female,cse,Gorakhpur,8.61,81.8,1,6,40,2,Yes,No,3,802867,No
+STU1008,Student_9,22-06-2025,Male,ECE,Lucknow,8.12,,5,5,327,1,Yes,Yes,2,158758,Yes
+STU1156,Student_157,03-11-2025,Male,Civil ,Gorakhpur,6.81,91.4,6,8,14,,No,No,0,528469,No
+STU1027,Student_28,03-01-2025,Female,Cse ,Lucknow,8.11,50,0,0,42,2,No,Yes,2,,No
+STU1266,Student_267,08-06-2025,Female, Computer Science,Delhi,6.45,63,7,2,219,3,No,No,6,1028936,No
+STU1314,Student_315,12-06-2025,Female,EEE,Patna,6.58,97.6,7,1,187,3,Yes,Yes,0,328057,No
+STU1064,Student_65,10-07-2025,Female,CSE,Varanasi,6.89,66,4,3,346,1,No,No,0,733143,No
+STU1459,Student_460,09-09-2025,Male,Mechanical,Kanpur,6.88,,6,1,89,1,No,Yes,2,559140,No
+STU1255,Student_256,22-08-2025,Female,IT,Delhi,5.96,68.7,2,7,143,4,No,No,2,504398,Yes
+STU1449,Student_450,07-01-2025,Male,ECE,Varanasi,7.4,72.7,3,1,93,3,No,Yes,4,424444,Yes
+STU1153,Student_154,22-11-2025,Female,ECE,Patna,7.6,74.8,4,3,24,3,Yes,No,2,100000,Yes
+STU1048,Student_49,07-06-2025,Male,civil,Lucknow,5.95,84.6,2,3,17,2,Yes,Yes,4,114038,No
+STU1208,Student_209,22-12-2025,Female,eee,Patna,7.65,70,3,3,124,3,Yes,No,0,979732,No
+STU1445,Student_446,08-08-2025,Male,Civil ,Lucknow,6,75.4,6,5,253,4,No,Yes,0,570749,No
+STU1287,Student_288,07-02-2025,Male,it,Patna,7.57,78.5,0,3,84,3,Yes,No,3,437375,Yes
+STU1001,Student_2,25-03-2025,Female,ece,Gorakhpur,6.15,69.8,7,2,149,4,No,Yes,3,723819,No
+STU1427,Student_428,03-09-2025,Male,Cse ,Gorakhpur,9.48,83.1,8,0,20,2,No,Yes,6,,Yes
+STU1341,Student_342,11-07-2025,Male,CSE,Prayagraj,6.42,74.1,6,3,139,2,Yes,No,3,1011952,Yes
+STU1269,Student_270,12-06-2025,Male,ECE,Varanasi,7.3,66.4,4,2,486,2,No,No,2,618304,Yes
+STU1265,Student_266,09-03-2025,Female,CSE,Patna,6.92,70.5,4,0,31,1,No,No,0,685032,No
+STU1544,Student_545,06-09-2025,Female,Electronics,Patna,7.72,77.5,7,0,46,,Yes,No,3,546916,No
+STU1463,Student_464,12-06-2025,Male,I.T ,Gorakhpur,5.64,66.2,4,5,18,1,Yes,No,2,179564,Yes
+STU1473,Student_474,21-03-2025,Female,eee,Prayagraj,8.26,50.7,4,3,112,3,Yes,No,3,968235,Yes
+STU1368,Student_369,04-02-2025,Male,MECH,Gorakhpur,8.77,85.7,7,1,117,2,No,Yes,3,665088,Yes
+STU1095,Student_96,17-06-2025,Female,ECE,Delhi,7.11,91.5,3,0,43,2,No,No,,556791,Yes
+STU1578,Student_579,18-06-2025,Female,civil,Lucknow,7.23,64.4,1,0,85,1,No,No,1,688097,Yes
+STU1352,Student_353,11-12-2025,Female,Cse ,Prayagraj,8.2,68.8,5,3,57,4,Yes,No,,701681,Yes
+STU1042,Student_43,04-05-2025,Male,it,Varanasi,5.56,,6,7,309,2,No,Yes,2,482860,Yes
+STU1361,Student_362,24-08-2025,Male,Electronics,Kanpur,8.22,89.5,8,0,252,2,Yes,No,0,546494,No
+STU1562,Student_563,18-12-2025,Male,CIVIL,Varanasi,6.87,83.1,7,2,123,3,No,Yes,,759352,Yes
+STU1599,Student_600,26-06-2025,Female,eee,Lucknow,6.88,62,5,0,53,2,No,Yes,2,100000,Yes
+STU1116,Student_117,12-04-2025,Female,Electronics,Prayagraj,9.08,63.9,10,0,45,2,Yes,Yes,2,234984,Yes
+STU1424,Student_425,20-08-2025,Female,Mechanical,Prayagraj,6.93,66.2,2,4,8,,Yes,Yes,2,714903,Yes
+STU1045,Student_46,08-09-2025,Male,MECH,Lucknow,6.65,96,3,2,76,2,No,Yes,4,100000,Yes
+STU1161,Student_162,27-05-2025,Female,Mechanical,Lucknow,7.31,57.9,4,1,22,1,Yes,No,2,621033,Yes
+STU1530,Student_531,09-04-2025,Male,EEE,Kanpur,8.4,85.1,3,1,203,3,Yes,No,3,660170,No
+STU1117,Student_118,12-03-2025,Female,Mechanical,Delhi,6.7,91.4,5,0,115,,No,No,0,1038706,Yes
+STU1288,Student_289,09-04-2025,Male,it,Delhi,5.55,90.5,5,1,5,3,No,Yes,0,1058568,Yes
+STU1077,Student_78,13-10-2025,Female,eee,Patna,6.75,,4,0,51,1,No,Yes,3,725241,Yes
+STU1534,Student_535,01-04-2025,Male,Civil ,Prayagraj,10,100,1,1,347,1,Yes,Yes,2,964748,Yes
+STU1389,Student_390,25-10-2025,Female,CSE,Delhi,5.98,75.9,5,3,4,1,No,Yes,0,425293,No
+STU1567,Student_568,16-10-2025,Male,Electronics,Varanasi,7.5,73,10,3,1,2,Yes,No,5,841573,Yes
+STU1412,Student_413,21-11-2025,Female,mech,Lucknow,8.66,98.5,0,2,241,3,Yes,No,0,610247,Yes
+STU1063,Student_64,24-05-2025,Male,cse,Delhi,8.71,82.9,3,7,53,4,Yes,Yes,2,190577,Yes
+STU1338,Student_339,02-12-2025,Male,Mech ,Lucknow,9.31,83,4,5,273,3,Yes,No,0,408427,Yes
+STU1315,Student_316,17-06-2025,Male,Information Technology,Lucknow,6.04,74.5,5,2,24,5,Yes,Yes,4,843977,No
+STU1299,Student_300,05-06-2025,Female,Cse ,Kanpur,6.13,52.2,5,0,78,3,No,Yes,0,,No
+STU1399,Student_400,08-05-2025,Male,Electrical,Lucknow,5.66,77.1,3,5,17,3,No,No,2,455567,Yes
+STU1230,Student_231,24-06-2025,Female,Cse ,Lucknow,6.16,61,4,4,307,1,No,No,6,1008737,No
+STU1297,Student_298,23-08-2025,Male,eee,Varanasi,8.39,77.9,3,4,106,2,No,No,3,374934,Yes
+STU1186,Student_187,11-02-2025,Male,Information Technology,Delhi,8.27,79.3,7,1,564,4,Yes,No,0,409700,Yes
+STU1480,Student_481,25-11-2025,Male,ece,Varanasi,7.08,82.1,6,3,72,2,Yes,Yes,0,428230,No
+STU1199,Student_200,01-03-2025,Female,Mechanical,Kanpur,9.83,100,3,1,57,3,No,No,3,1189838,No
+STU1420,Student_421,21-12-2025,Female,mech,Varanasi,7.88,92.8,2,3,215,1,Yes,Yes,5,631037,No
+STU1365,Student_366,03-07-2025,Female,E.C.E,Patna,7.5,88.6,2,1,238,1,No,No,2,1025083,Yes
+STU1487,Student_488,15-03-2025,Female,EEE,Gorakhpur,8.89,67.8,3,5,51,2,Yes,No,3,532523,No
+STU1396,Student_397,10-11-2025,Male,Electronics,,7.18,87.2,1,0,147,3,Yes,Yes,3,100000,Yes
+STU1121,Student_122,12-11-2025,Male,eee,Prayagraj,7.26,79.1,2,3,70,3,No,No,0,423803,Yes
+STU1581,Student_582,06-12-2025,Female,C.S.E,Prayagraj,6.84,63.4,8,0,66,3,No,Yes,2,771848,Yes
+STU1247,Student_248,22-07-2025,Female,Electronics,Gorakhpur,6.89,79,6,4,43,2,Yes,No,3,736589,Yes
+STU1307,Student_308,06-08-2025,Male,cse,Varanasi,5.95,72.9,3,3,147,2,Yes,Yes,0,1419386,No
+STU1577,Student_578,17-02-2025,Male,ece,Gorakhpur,7.48,71,3,4,144,1,Yes,No,2,766853,Yes
+STU1496,Student_497,21-04-2025,Male,MECH,Patna,7.43,76,1,3,33,4,No,No,5,825835,Yes
+STU1363,Student_364,06-07-2025,Female,MECH,Kanpur,8,58.8,4,5,65,2,Yes,Yes,0,,No
+STU1158,Student_159,18-03-2025,Male,Civil ,Prayagraj,7.98,64.1,0,3,226,2,Yes,No,3,466179,No
+STU1085,Student_86,26-04-2025,Female,Mech ,Gorakhpur,9.4,73.3,7,3,86,1,No,No,0,401574,Yes
+STU1469,Student_470,10-04-2025,Male,I.T ,Varanasi,6.53,70.1,3,2,6,4,No,Yes,4,419885,Yes
+STU1225,Student_226,22-01-2025,Female,eee,Kanpur,9.27,77.7,3,2,11,2,Yes,Yes,0,361296,Yes
+STU1376,Student_377,07-07-2025,Male, Computer Science,Prayagraj,7.69,73.1,7,3,84,1,No,No,4,100000,No
+STU1262,Student_263,23-01-2025,Female,ece,Delhi,8.52,79.4,6,3,49,2,Yes,No,3,971115,Yes
+STU1331,Student_332,23-05-2025,Male,Civil ,,6.83,89.9,5,2,102,1,No,Yes,3,938029,No
+STU1233,Student_234,16-05-2025,Female,Electrical,Gorakhpur,7.9,75.8,2,3,114,3,No,Yes,0,412312,No
+STU1076,Student_77,16-01-2025,Female,Mechanical,Kanpur,7.4,86.4,7,3,71,3,Yes,Yes,1,523617,No
+STU1475,Student_476,04-05-2025,Female,E.C.E,Lucknow,8.56,75.8,1,4,31,2,Yes,Yes,4,950034,Yes
+STU1533,Student_534,07-12-2025,Male,eee,Kanpur,8.04,78.1,6,0,38,2,Yes,No,2,579426,Yes
+STU1149,Student_150,03-06-2025,Female,I.T ,Delhi,7.57,49.5,5,5,384,2,Yes,No,3,836809,Yes
+STU1087,Student_88,26-04-2025,Male,mech,Varanasi,6.98,68.9,5,0,168,2,No,No,2,890239,Yes
+STU1457,Student_458,15-11-2025,Male,Information Technology,Varanasi,5.95,,5,3,119,4,No,No,0,822848,Yes
+STU1421,Student_422,02-09-2025,Female,E.C.E,Gorakhpur,8.28,75.1,3,6,189,1,No,Yes,6,100000,Yes
+STU1548,Student_549,23-04-2025,Female,C.S.E,Gorakhpur,5.33,73.8,6,1,120,1,No,Yes,2,777540,Yes
+STU1182,Student_183,16-06-2025,Female,cse,Prayagraj,"7,91",,2,0,15,4,Yes,No,3,717448,Yes
+STU1476,Student_477,04-10-2025,Male,ece,Lucknow,5.94,80,4,0,58,1,No,Yes,,368746,No
+STU1513,Student_514,22-02-2025,Male,ece,Lucknow,5.53,68.6,5,4,110,3,No,No,,845408,Yes
+STU1105,Student_106,03-05-2025,Female,C.S.E,Varanasi,6.12,75.9,3,0,152,2,No,Yes,2,1073330,No
+STU1332,Student_333,26-01-2025,Male,Electronics,Prayagraj,9.29,81.3,1,3,36,2,Yes,No,2,430837,Yes
+STU1438,Student_439,21-02-2025,Male,eee,Patna,6.15,76.5,5,0,223,,No,No,2,464041,Yes
+STU1049,Student_50,03-08-2025,Male,Mechanical,Prayagraj,7.31,73.5,7,6,8,2,No,No,,1214626,No
+STU1335,Student_336,14-11-2025,Female,Cse ,Varanasi,8.11,93,0,5,6,2,Yes,No,3,368651,No
+STU1005,Student_6,26-08-2025,Male,ece,Patna,7.37,70.1,6,2,16,2,No,No,3,459179,Yes
+STU1017,Student_18,22-02-2025,Female,Cse ,Varanasi,7.05,80.8,1,2,14,2,No,Yes,3,615946,No
+STU1234,Student_235,18-05-2025,Male,CIVIL,Delhi,6.87,85.9,6,2,108,2,Yes,No,0,323863,Yes
+STU1486,Student_487,01-05-2025,Female,ECE,Varanasi,5.59,100,6,0,221,2,No,No,0,465774,No
+STU1539,Student_540,22-08-2025,Male,civil,Delhi,7.9,61.4,8,6,6,3,Yes,Yes,3,1344046,No
+STU1497,Student_498,15-02-2025,Female,it,Kanpur,8.49,64.6,2,2,6,2,Yes,Yes,2,100000,No
+STU1372,Student_373,22-12-2025,Female,Civil ,Prayagraj,6.27,96,7,3,273,1,No,No,1,834940,No
+STU1110,Student_111,06-06-2025,Female, Computer Science,Kanpur,6.43,83.4,4,0,126,2,No,No,,382195,Yes
+STU1106,Student_107,11-07-2025,Female,IT,Kanpur,5.64,80.3,4,5,13,2,No,Yes,2,623579,No
+STU1443,Student_444,01-05-2025,Female,it,Prayagraj,7.63,,3,2,118,2,Yes,Yes,1,199181,Yes
+STU1488,Student_489,09-12-2025,Female,Electronics,Delhi,7.38,77.5,3,1,43,2,No,No,1,516021,No
+STU1012,Student_13,27-04-2025,Male,eee,Delhi,7.4,98.7,1,0,16,2,No,No,0,331581,No
+STU1190,Student_191,07-11-2025,Female,ECE,Lucknow,7.9,62.9,3,9,128,3,No,Yes,0,396746,Yes
+STU1282,Student_283,26-05-2025,Female,I.T ,Delhi,8.55,77.1,6,3,3,3,Yes,No,,345442,No
+STU1029,Student_30,25-06-2025,Male,EEE,Varanasi,6.99,73.9,5,3,388,1,No,Yes,3,,Yes
+STU1169,Student_170,11-10-2025,Female,Cse ,Prayagraj,6.86,57.9,10,0,149,2,No,Yes,1,100000,Yes
+STU1180,Student_181,10-03-2025,Male,EEE,Prayagraj,7.14,76.3,6,2,178,3,Yes,No,4,274189,Yes
+STU1100,Student_101,25-06-2025,Female,I.T ,Delhi,7.35,54,5,4,121,1,No,Yes,0,219595,No
+STU1197,Student_198,06-04-2025,Female,CSE,Delhi,8.75,90.3,3,7,1,2,No,No,2,695399,No
+STU1495,Student_496,04-10-2025,Male,mech,Kanpur,4.15,72.4,5,4,197,4,No,Yes,1,220874,No
+STU1597,Student_598,24-06-2025,Female,IT,Patna,8.68,91.5,2,0,81,4,Yes,Yes,1,474836,Yes
+STU1373,Student_374,05-08-2025,Male,IT,Prayagraj,7.63,69.4,6,3,91,3,No,No,5,789851,No
+STU1460,Student_461,22-02-2025,Female,Information Technology,Delhi,7.2,87.5,5,0,25,2,Yes,No,2,290845,Yes
+STU1413,Student_414,20-06-2025,Female,I.T ,Prayagraj,6.78,78.8,7,0,188,4,No,No,4,202095,Yes
+STU1131,Student_132,07-10-2025,Female,I.T ,Lucknow,6.92,68.8,3,2,117,2,No,No,3,669498,No
+STU1039,Student_40,08-04-2025,Female,eee,Prayagraj,5.38,87.8,1,2,125,3,No,Yes,5,411723,No
+STU1434,Student_435,23-11-2025,Male,ece,Lucknow,6.35,77.5,7,2,59,3,No,Yes,3,1268938,Yes
+STU1215,Student_216,24-09-2025,Male,CSE,Varanasi,5.6,88.4,3,6,7,2,No,No,3,872747,No
+STU1474,Student_475,20-11-2025,Male,E.C.E,Varanasi,7.1,77.5,3,1,117,1,No,No,1,699116,Yes
+STU1456,Student_457,17-07-2025,Male,Cse ,Varanasi,7.14,,5,1,135,5,No,Yes,0,100000,No
+STU1260,Student_261,08-04-2025,Female,IT,Lucknow,6.05,100,2,0,194,2,No,No,2,505090,No
+STU1035,Student_36,11-03-2025,Female,Mech ,Prayagraj,7.7,91.8,1,4,35,1,Yes,No,0,674299,No
+STU1309,Student_310,15-06-2025,Female,CIVIL,Delhi,6.68,88.6,3,6,31,2,No,No,2,370471,Yes
+STU1276,Student_277,02-09-2025,Female,IT,Delhi,7.3,73.2,9,2,258,4,Yes,Yes,1,708359,No
+STU1393,Student_394,23-03-2025,Female,I.T ,Delhi,9.08,75.4,9,5,342,3,Yes,No,3,615419,Yes
+STU1107,Student_108,15-11-2025,Female,Information Technology,Varanasi,6.36,92.1,6,3,53,3,Yes,Yes,,234037,No
+STU1565,Student_566,23-01-2025,Female,Electronics,Patna,6.61,86.6,5,0,273,3,Yes,Yes,3,721552,No
+STU1524,Student_525,11-11-2025,Male, Computer Science,Gorakhpur,8.29,,6,3,254,3,No,No,0,483456,Yes
+STU1047,Student_48,10-02-2025,Male,Mechanical,Kanpur,7.19,86.2,4,0,35,2,No,Yes,0,151008,No
+STU1203,Student_204,16-06-2025,Male,CSE,Prayagraj,6.17,64.3,2,2,179,2,Yes,Yes,4,659771,No
+STU1021,Student_22,26-08-2025,Female,CSE,Prayagraj,8.29,78.8,2,4,372,4,No,No,3,128387,Yes
+STU1402,Student_403,22-05-2025,Female,Information Technology,Patna,7.87,70.3,1,3,128,3,Yes,Yes,3,509495,Yes
+STU1083,Student_84,03-04-2025,Female,I.T ,Varanasi,7.16,79.2,9,2,157,3,No,Yes,0,798624,Yes
+STU1130,Student_131,13-05-2025,Male,cse,,7.1,74.3,3,4,45,3,No,Yes,,665181,Yes
+STU1415,Student_416,14-05-2025,Female,IT,Gorakhpur,8.33,89.9,3,1,219,3,Yes,No,2,401512,Yes
+STU1286,Student_287,11-06-2025,Male,E.C.E,Prayagraj,5.47,83.4,2,5,168,2,No,Yes,4,383291,No
+STU1123,Student_124,06-08-2025,Female,I.T ,Gorakhpur,6.01,79.9,8,5,128,2,Yes,Yes,4,431458,No
+STU1033,Student_34,10-10-2025,Male,Mechanical,Lucknow,8.7,42.4,7,1,64,2,No,Yes,0,510802,No
+STU1516,Student_517,08-10-2025,Male,civil,Prayagraj,6.01,66.4,4,2,240,4,Yes,No,1,592308,No
+STU1019,Student_20,05-10-2025,Male,Electronics,Lucknow,6.88,95.7,4,2,20,1,No,No,3,488425,Yes
+STU1555,Student_556,02-07-2025,Female,CIVIL,Patna,7.33,83.5,7,1,101,3,No,Yes,3,556937,No
+STU1219,Student_220,15-04-2025,Male,it,Gorakhpur,6.07,84.6,4,3,34,2,No,Yes,1,645462,No
+STU1481,Student_482,15-11-2025,Male,ECE,Prayagraj,8.58,88,3,2,22,3,Yes,No,2,442686,Yes
+STU1356,Student_357,01-10-2025,Male,ECE,Kanpur,4.98,95.2,4,1,179,3,Yes,No,3,897430,No
+STU1224,Student_225,26-04-2025,Male,I.T ,Varanasi,7.23,74.9,4,3,112,1,Yes,Yes,1,787563,No
+STU1092,Student_93,02-07-2025,Male,IT,Gorakhpur,6.46,55.5,8,1,22,5,No,No,3,177054,Yes
+STU1151,Student_152,27-02-2025,Female,Information Technology,Prayagraj,7.6,59,6,7,30,3,No,No,1,949483,Yes
+STU1590,Student_591,23-04-2025,Male,I.T ,Delhi,8.77,73,2,0,8,1,Yes,No,0,427434,No
+STU1317,Student_318,23-07-2025,Male,Electronics,Gorakhpur,6.11,81.6,3,3,91,4,No,Yes,4,150566,No
+STU1448,Student_449,19-09-2025,Female,ECE,Gorakhpur,6.69,98.8,4,4,66,1,Yes,No,2,452941,Yes
+STU1522,Student_523,06-08-2025,Female,mech,Lucknow,4.17,94.7,6,0,84,3,No,No,5,281367,No
+STU1279,Student_280,23-03-2025,Male,CIVIL,Patna,8.3,93.3,7,4,13,,Yes,No,0,695487,Yes
+STU1349,Student_350,20-11-2025,Female,MECH,Lucknow,8.13,90.7,3,4,292,3,Yes,Yes,3,,Yes
+STU1374,Student_375,17-04-2025,Male,ECE,Prayagraj,7.31,69.7,5,3,25,2,No,Yes,2,609472,Yes
+STU1400,Student_401,20-10-2025,Female,Civil ,Kanpur,7.47,80.7,4,1,21,4,No,Yes,2,859213,No
+STU1257,Student_258,27-02-2025,Male,Mech ,Kanpur,6.75,63.8,5,0,333,4,No,Yes,3,605261,No
+STU1072,Student_73,13-04-2025,Male,mech,Lucknow,7.92,87.5,4,1,110,3,Yes,Yes,3,892099,Yes
+STU1195,Student_196,24-03-2025,Female,Electrical,Gorakhpur,8.76,93.2,3,1,25,3,No,No,2,1080014,Yes
+STU1483,Student_484,06-01-2025,Male,CIVIL,Varanasi,7.79,90.8,2,4,637,1,No,Yes,5,612409,Yes
+STU1137,Student_138,17-12-2025,Male,cse,Lucknow,6.82,78.7,1,0,47,1,No,No,0,325462,Yes
+STU1494,Student_495,11-01-2025,Female,C.S.E,Gorakhpur,7.62,88.9,1,3,9,2,Yes,No,5,155600,Yes
+STU1550,Student_551,12-02-2025,Female,Electronics,Kanpur,7.29,80.8,4,2,65,3,No,Yes,3,1041501,Yes
+STU1462,Student_463,19-11-2025,Male,EEE,,6.07,85.6,5,3,111,2,No,No,0,347255,No
+STU1201,Student_202,16-11-2025,Male,Civil ,Patna,8.85,78.2,6,1,108,3,No,No,3,570049,Yes
+STU1312,Student_313,19-03-2025,Female,Information Technology,Kanpur,8.98,70.2,5,1,54,2,Yes,Yes,4,687922,Yes
+STU1290,Student_291,07-11-2025,Male,C.S.E,Gorakhpur,5.59,73.6,2,1,102,2,Yes,Yes,1,421088,No
+STU1189,Student_190,04-07-2025,Female,eee,Varanasi,6.58,76.1,3,4,167,4,No,Yes,5,581694,Yes
+STU1112,Student_113,06-04-2025,Male,E.C.E,Prayagraj,6.69,64.5,10,0,0,2,No,Yes,,463968,No
+STU1183,Student_184,24-08-2025,Male,Information Technology,Delhi,7.9,69.7,5,4,12,,Yes,Yes,1,100000,Yes
+STU1152,Student_153,02-12-2025,Male,Cse ,Varanasi,6.86,72.8,3,1,26,3,No,Yes,5,678426,No
+STU1325,Student_326,22-03-2025,Male,IT,Lucknow,7.84,81.3,6,0,384,2,Yes,No,1,667817,Yes
+STU1044,Student_45,13-11-2025,Female,Electrical,Patna,8.06,88,5,1,21,3,Yes,Yes,3,549921,Yes
+STU1444,Student_445,04-02-2025,Male,E.C.E,Kanpur,8.02,71.2,6,4,12,1,Yes,No,0,628817,Yes
+STU1006,Student_7,08-09-2025,Male,IT,Delhi,7.09,60.6,3,2,36,1,No,Yes,1,821254,No
+STU1250,Student_251,11-11-2025,Male, Computer Science,Lucknow,8.03,76.3,4,2,121,,Yes,Yes,4,,Yes
+STU1075,Student_76,10-05-2025,Male,EEE,Lucknow,7.27,98.6,5,2,174,1,Yes,No,2,807031,Yes
+STU1512,Student_513,02-12-2025,Female,cse,Prayagraj,7.43,78.3,8,5,7,1,Yes,No,1,375031,Yes
+STU1391,Student_392,03-07-2025,Female,mech,Prayagraj,8.52,72.4,8,0,23,3,Yes,No,1,997421,No
+STU1432,Student_433,22-04-2025,Male,mech,Patna,6.79,74.7,7,5,159,3,No,Yes,2,1378064,No
+STU1068,Student_69,26-03-2025,Female,E.C.E,Kanpur,7.24,80.4,4,5,128,2,No,No,2,895840,Yes
+STU1167,Student_168,06-10-2025,Male,MECH,Delhi,7.81,75.4,0,2,51,1,Yes,No,2,488574,Yes
+STU1554,Student_555,08-04-2025,Male,Mechanical,Prayagraj,6.24,72.7,4,2,150,4,No,Yes,0,755750,No
+STU1366,Student_367,02-02-2025,Female,CSE,Kanpur,6.12,75.5,3,2,193,2,No,Yes,3,369436,Yes
+STU1345,Student_346,15-08-2025,Male,EEE,Gorakhpur,6.46,80.7,4,2,57,3,No,No,2,286557,Yes
+STU1584,Student_585,05-02-2025,Female,Information Technology,,5.77,82.4,3,0,47,2,No,Yes,6,,Yes
+STU1535,Student_536,03-04-2025,Male,Electronics,Prayagraj,6.99,79.8,0,3,65,1,No,No,3,944760,Yes
+STU1398,Student_399,01-06-2025,Male,CIVIL,Delhi,7.13,77,9,5,7,3,No,Yes,2,584832,No
+STU1185,Student_186,06-10-2025,Male,Information Technology,Varanasi,7.14,76.7,3,80,79,2,No,Yes,1,768098,No
+STU1348,Student_349,03-01-2025,Female,EEE,Prayagraj,7.63,74.7,7,3,177,3,Yes,Yes,6,412175,Yes
+STU1211,Student_212,22-02-2025,Male,ece,Delhi,7.96,56.9,7,3,12,3,Yes,No,3,303883,Yes
+STU1579,Student_580,23-11-2025,Female,Cse ,Varanasi,6.94,,6,2,298,3,Yes,Yes,0,502049,Yes
+STU1502,Student_503,23-03-2025,Female,E.C.E,Delhi,7.68,83.2,1,0,20,3,Yes,No,1,726263,Yes
+STU1537,Student_538,01-03-2025,Female,civil,Lucknow,5.68,79.5,5,6,250,3,Yes,No,3,100000,Yes
+STU1196,Student_197,22-06-2025,Male,CSE,Kanpur,8.03,65.8,4,0,52,3,Yes,No,6,219273,Yes
+STU1175,Student_176,22-02-2025,Female,MECH,Lucknow,6.84,85.1,4,4,328,2,No,Yes,5,445909,No
