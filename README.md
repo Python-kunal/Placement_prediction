@@ -1,17 +1,17 @@
-#🎓 Placement Prediction Using Machine Learning
+# 🎓 Placement Prediction Using Machine Learning
 
-##📌 Project Overview
+## 📌 Project Overview
 
 Placement Prediction is a Machine Learning project designed to predict student placement outcomes using student-related data. The project includes trained classification models and a Python application for generating predictions.
 
-##🎯 Objectives
+## 🎯 Objectives
 
 - Predict student placement outcomes using Machine Learning.
 - Use multiple classification models.
 - Process student data for predictions.
 - Develop an application for placement prediction.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -19,7 +19,7 @@ Placement Prediction is a Machine Learning project designed to predict student p
 - Streamlit (if used by the application)
 - Pickle
 
-##🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 The project repository contains these trained model files:
 
@@ -27,7 +27,7 @@ The project repository contains these trained model files:
 - Random Forest
 - Gradient Boosting
 
-##📂 Project Structure
+## 📂 Project Structure
 
 Placement_prediction/
 │
@@ -43,7 +43,7 @@ Placement_prediction/
 ├── tempCodeRunnerFile.python
 └── README.md
 
-##📄 File Description
+## 📄 File Description
 
 File Name| Description
 "app.py"| Main Python application for placement prediction.
@@ -58,7 +58,7 @@ File Name| Description
 "tempCodeRunnerFile.python"| Temporary Python file, often created by the Code Runner extension in VS Code.
 "README.md"| Project documentation and setup instructions.
 
-##⚙️ Installation and Setup
+## ⚙️ Installation and Setup
 
 1. Clone the Repository
 
@@ -80,21 +80,21 @@ streamlit run app.py
 
 Otherwise, run the application using the command appropriate to its implementation.
 
-##🔍 How the Project Works
+## 🔍 How the Project Works
 
 1. Student data is provided to the application.
 2. The input data is prepared for the model.
 3. A trained Machine Learning model processes the input.
 4. The application displays the predicted placement outcome.
 
-##🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 - Compare model performance using accuracy and other evaluation metrics.
 - Improve the user interface.
 - Add data visualizations.
 - Deploy the application online.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Kunal
 
